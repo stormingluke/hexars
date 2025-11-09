@@ -1,0 +1,3 @@
+struct Container {
+    name: String,
+}
